@@ -1,8 +1,6 @@
 <?php
 /**
-* @author - Fifa Guide
-* @URL - tools.fifaguide.com
-* @date - 01/01/14
+* @author - z7K1LL7z
 * @version - 2.0
 * based on code by Rob McGhee
 **/
